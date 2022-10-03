@@ -1,2 +1,2 @@
-# lg-sensor
-Monitoring the status of the server in real time.
+# alarmist
+Server status monitoring and real-time notifications.
